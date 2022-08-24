@@ -1,6 +1,6 @@
 {
   "name": "postcss-prepend-selector",
-  "version": "0.3.1",
+  "version": "0.0.1",
   "description": "PostCSS plugin Prepend selector for each rule",
   "keywords": [
     "postcss",
@@ -8,13 +8,13 @@
     "postcss-plugin",
     "postcss-prepend-selector"
   ],
-  "author": "Vladislav Gladkiy <ledniy@gmail.com>",
+  "author": "Sanjeeth Kumar <sanjithkumar017@gmail.com>",
   "license": "MIT",
-  "repository": "ledniy/postcss-prepend-selector",
+  "repository": "sanjithkumar017/postcss-prepend-selector",
   "bugs": {
-    "url": "https://github.com/ledniy/postcss-prepend-selector/issues"
+    "url": "https://github.com/sanjithkumar017/postcss-prepend-selector/issues"
   },
-  "homepage": "https://github.com/ledniy/postcss-prepend-selector",
+  "homepage": "https://github.com/sanjithkumar017/postcss-prepend-selector",
   "dependencies": {
     "postcss": "^5.2.14"
   },
